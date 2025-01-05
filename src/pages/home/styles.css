@@ -9,3 +9,10 @@
   font-size: 1.1rem;
   letter-spacing: 0.05rem;
 }
+.homeText h2 {
+  text-align: center;
+}
+.homeText span {
+  font-weight: 700;
+  color: var(--scarlett);
+}
