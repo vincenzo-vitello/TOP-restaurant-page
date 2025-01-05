@@ -1,0 +1,11 @@
+.imageContainer > img {
+  width: 100%;
+}
+.homeText {
+  color: var(--dark-gray);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 1.1rem;
+  letter-spacing: 0.05rem;
+}
