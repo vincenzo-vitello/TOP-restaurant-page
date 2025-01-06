@@ -12,5 +12,5 @@ menuBtn.addEventListener("click", () => renderMenu());
 aboutBtn.addEventListener("click", () => renderAbout());
 
 document.addEventListener("DOMContentLoaded", () => {
-  renderMenu();
+  renderHome();
 });
